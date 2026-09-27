@@ -1,0 +1,12 @@
+# Vivado junk & temporary build files
+*.jou
+*.log
+*.str
+*.o
+.Xil/
+*.runs/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.bit
+*.bin
